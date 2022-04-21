@@ -176,3 +176,4 @@ Received Import Request.
   path: Assets/rigging.blend
   artifactKey: Guid(3d15ad7a8d7c948a9b0646376e7a2a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/rigging.blend using Guid(3d15ad7a8d7c948a9b0646376e7a2a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c4a6b422a2da0f334425abecaa9ca3') in 0.130608 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
