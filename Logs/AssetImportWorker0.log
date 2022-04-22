@@ -910,3 +910,4 @@ Received Import Request.
   path: Assets/Animation/AvatarAnimatorController.controller
   artifactKey: Guid(ef4bcce6008ca47c1ba53e413323bbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Animation/AvatarAnimatorController.controller using Guid(ef4bcce6008ca47c1ba53e413323bbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740eaf3134a4d2da37582af12f6aaf47') in 0.006149 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
