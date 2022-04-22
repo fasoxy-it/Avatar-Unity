@@ -22,103 +22,103 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53476
+60367
 Successfully changed project path to: /Users/fasoxy/Library/Mobile Documents/com~apple~CloudDocs/Università/Magistrale/Corsi/Realtà virtuale/Laboratorio/Progetti/Avatar-Unity
 /Users/fasoxy/Library/Mobile Documents/com~apple~CloudDocs/Università/Magistrale/Corsi/Realtà virtuale/Laboratorio/Progetti/Avatar-Unity
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 45.57 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 32.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/fasoxy/Library/Mobile Documents/com~apple~CloudDocs/Università/Magistrale/Corsi/Realtà virtuale/Laboratorio/Progetti/Avatar-Unity/Assets
 GfxDevice: creating device client; threaded=0
-2022-04-21 10:24:11.962 Unity[33189:3463484] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
-2022-04-21 10:24:11.962 Unity[33189:3463484] Metal devices available: 1
-2022-04-21 10:24:11.962 Unity[33189:3463484] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
-2022-04-21 10:24:11.962 Unity[33189:3463484] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-04-22 15:19:32.017 Unity[51018:4052677] LG UltraFine preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-04-22 15:19:32.017 Unity[51018:4052677] Metal devices available: 1
+2022-04-22 15:19:32.017 Unity[51018:4052677] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-04-22 15:19:32.018 Unity[51018:4052677] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56189
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56018
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.30f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000584 seconds.
+Registered in 0.000776 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 59.96 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 32.52 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.971 seconds
+- Completed reload, in  0.713 seconds
 Domain Reload Profiling:
-	ReloadAssembly (971ms)
-		BeginReloadAssembly (79ms)
+	ReloadAssembly (713ms)
+		BeginReloadAssembly (57ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (776ms)
-			LoadAssemblies (78ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (571ms)
+			LoadAssemblies (56ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (281ms)
+			SetupTypeCache (213ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (301ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (212ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (60ms)
-				BeforeProcessingInitializeOnLoad (16ms)
-				ProcessInitializeOnLoadAttributes (166ms)
-				ProcessInitializeOnLoadMethodAttributes (50ms)
+				RefreshPlugins (33ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (124ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002231 seconds.
+Registered in 0.001064 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.609 seconds
+- Completed reload, in  1.234 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1610ms)
-		BeginReloadAssembly (213ms)
+	ReloadAssembly (1235ms)
+		BeginReloadAssembly (177ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (1303ms)
-			LoadAssemblies (110ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (988ms)
+			LoadAssemblies (90ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (466ms)
+			SetupTypeCache (370ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (81ms)
-			SetupLoadedEditorAssemblies (475ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (348ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (111ms)
-				ProcessInitializeOnLoadAttributes (341ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (255ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
-Validating Project structure ... 0.000151 seconds.
+Validating Project structure ... 0.000145 seconds.
 Shader import version has changed; will reimport all shaders...
-Upgrading shader files ...0.000233 seconds.
+Upgrading shader files ...0.000228 seconds.
 Application.AssetDatabase Initial Script Refresh Start
 RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
 RefreshProfiler: Total: 0.000ms
@@ -130,18 +130,18 @@ RefreshProfiler: Total: 0.000ms
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
 Initializing Unity extensions:
-2022-04-21 10:24:15.585 Unity[33189:3463484] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000d523e0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
-2022-04-21 10:24:15.589 Unity[33189:3463484] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600000d22df0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-04-22 15:19:34.765 Unity[51018:4052677] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000014fc380 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-04-22 15:19:34.769 Unity[51018:4052677] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000148b560 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 ========================================================================
 Worker process is ready to serve import requests
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1503 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 175.2 MB.
-System memory in use after: 174.4 MB.
+System memory in use before: 176.1 MB.
+System memory in use after: 175.3 MB.
 
 Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 1977.
-Total: 4.774529 ms (FindLiveObjects: 0.147871 ms CreateObjectMapping: 0.051832 ms MarkObjects: 3.959347 ms  DeleteObjects: 0.614010 ms)
+Total: 3.604394 ms (FindLiveObjects: 0.148620 ms CreateObjectMapping: 0.046051 ms MarkObjects: 2.904048 ms  DeleteObjects: 0.504806 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -155,25 +155,42 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+  path: Assets/riggingArmDownTestFull.fbx
+  artifactKey: Guid(f86616fa374d54c4ba40e362f98fd7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/riggingArmDownTestFull.fbx using Guid(f86616fa374d54c4ba40e362f98fd7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a638216e134a805f908401173976f861') in 1.311857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.189627 seconds.
+  path: Assets/riggingArmDownTest.fbx
+  artifactKey: Guid(c432e1e1eb21f4b48843f1e159606543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/riggingArmDownTest.fbx using Guid(c432e1e1eb21f4b48843f1e159606543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad64dde5ce7b5f7400e6d451171cf81f') in 0.007794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 265.081748 seconds.
   path: Assets/rigging.fbx
-  artifactKey: Guid(1d7fd19f0f5604ba2a413084d03eb845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rigging.fbx using Guid(1d7fd19f0f5604ba2a413084d03eb845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca492dd984ad5aac0f192c39e19ea1c') in 1.102277 seconds 
+  artifactKey: Guid(e392a2d0bfa134a619c6e9673bd61c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rigging.fbx using Guid(e392a2d0bfa134a619c6e9673bd61c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f220bc29d4b8c951057b53f581ea36') in 0.160258 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 303.010390 seconds.
+  Time since last request: 161.812882 seconds.
   path: Assets/rigging.fbx
-  artifactKey: Guid(1d7fd19f0f5604ba2a413084d03eb845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rigging.fbx using Guid(1d7fd19f0f5604ba2a413084d03eb845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00da3fba79b2095e901905e78262493c') in 0.011418 seconds 
+  artifactKey: Guid(e392a2d0bfa134a619c6e9673bd61c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rigging.fbx using Guid(e392a2d0bfa134a619c6e9673bd61c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b4e5824c18fa99afe38bd1c6e1a3bd') in 0.129275 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 312.841902 seconds.
-  path: Assets/rigging.blend
-  artifactKey: Guid(3d15ad7a8d7c948a9b0646376e7a2a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rigging.blend using Guid(3d15ad7a8d7c948a9b0646376e7a2a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e2427786a2d92b6fa1e34506d300f5') in 1.020106 seconds 
+  Time since last request: 33.443722 seconds.
+  path: Assets/rigging.fbx
+  artifactKey: Guid(e392a2d0bfa134a619c6e9673bd61c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rigging.fbx using Guid(e392a2d0bfa134a619c6e9673bd61c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089be9c6ed889367e61bdd1a653e1508') in 0.147284 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 38.283597 seconds.
-  path: Assets/rigging.blend
-  artifactKey: Guid(3d15ad7a8d7c948a9b0646376e7a2a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rigging.blend using Guid(3d15ad7a8d7c948a9b0646376e7a2a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c4a6b422a2da0f334425abecaa9ca3') in 0.130608 seconds 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+  Time since last request: 19.443563 seconds.
+  path: Assets/riggingArmDown.fbx
+  artifactKey: Guid(b323999494e3a41068d39e80698b31f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/riggingArmDown.fbx using Guid(b323999494e3a41068d39e80698b31f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360e1bf409a59247944154665649b1a9') in 0.147170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.625105 seconds.
+  path: Assets/riggingArmDown.fbx
+  artifactKey: Guid(b323999494e3a41068d39e80698b31f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/riggingArmDown.fbx using Guid(b323999494e3a41068d39e80698b31f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61386fb19dcca898418c0a270c54cdb1') in 0.087618 seconds 
